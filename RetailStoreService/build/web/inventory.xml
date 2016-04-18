@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Inventory>
+    <Inventory_Item>
+        <Product>
+            <Manufacturer_Name>ManufacturerA</Manufacturer_Name>
+            <Product_Type>TV</Product_Type>
+            <Unit_Price>250.0</Unit_Price>
+        </Product>
+        <Amount>100</Amount>
+    </Inventory_Item>
+    <Inventory_Item>
+        <Product>
+            <Manufacturer_Name>ManufacturerC</Manufacturer_Name>
+            <Product_Type>Video Camera</Product_Type>
+            <Unit_Price>100.0</Unit_Price>
+        </Product>
+        <Amount>100</Amount>
+    </Inventory_Item>
+    <Inventory_Item>
+        <Product>
+            <Manufacturer_Name>ManufacturerB</Manufacturer_Name>
+            <Product_Type>DVD Player</Product_Type>
+            <Unit_Price>50.0</Unit_Price>
+        </Product>
+        <Amount>100</Amount>
+    </Inventory_Item>
+</Inventory>

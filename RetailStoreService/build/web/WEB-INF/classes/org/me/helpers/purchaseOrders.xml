@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Purchase_Orders>
+    <Purchase_Order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="purchaseOrder">
+        <Order_Num>123123</Order_Num>
+        <Customer_Ref>Amanda</Customer_Ref>
+        <Product>
+            <Manufacturer_Name>ManufacturerA</Manufacturer_Name>
+            <Product_Type>TV</Product_Type>
+            <Unit_Price>250.0</Unit_Price>
+        </Product>
+        <Quantity>1</Quantity>
+        <Unit_Price>250.0</Unit_Price>
+        <Is_Paid>false</Is_Paid>
+    </Purchase_Order>
+    <Purchase_Order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="purchaseOrder">
+        <Order_Num>0000000</Order_Num>
+        <Customer_Ref>Felicia</Customer_Ref>
+        <Product>
+            <Manufacturer_Name>ManufacturerA</Manufacturer_Name>
+            <Product_Type>TV</Product_Type>
+            <Unit_Price>250.0</Unit_Price>
+        </Product>
+        <Quantity>4</Quantity>
+        <Unit_Price>1000.0</Unit_Price>
+        <Is_Paid>false</Is_Paid>
+    </Purchase_Order>
+    <Purchase_Order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="purchaseOrder">
+        <Order_Num>0000000</Order_Num>
+        <Customer_Ref>Felicia</Customer_Ref>
+        <Product>
+            <Manufacturer_Name>ManufacturerC</Manufacturer_Name>
+            <Product_Type>Video Camera</Product_Type>
+            <Unit_Price>100.0</Unit_Price>
+        </Product>
+        <Quantity>5</Quantity>
+        <Unit_Price>500.0</Unit_Price>
+        <Is_Paid>false</Is_Paid>
+    </Purchase_Order>
+</Purchase_Orders>
